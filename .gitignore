@@ -4,3 +4,5 @@ template/public/audio/*.wav
 template/music/bgm.*
 *.bak
 .DS_Store
+examples/*/public/audio/*.wav
+examples/*/music/bgm.*
