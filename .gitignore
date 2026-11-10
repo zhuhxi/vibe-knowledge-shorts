@@ -1,0 +1,6 @@
+node_modules/
+out/
+template/public/audio/*.wav
+template/music/bgm.*
+*.bak
+.DS_Store
