@@ -33,7 +33,7 @@
 需要 Node.js 20+、ffmpeg、Python 3（装 numpy 和 scipy）、中文字体 Noto Sans/Serif CJK。
 
 ```bash
-git clone <本仓库地址> && cd vibe-knowledge-shorts/template
+git clone https://github.com/zhuhxi/vibe-knowledge-shorts.git && cd vibe-knowledge-shorts/template
 npm install
 python3 audio_mix.py          # 生成音轨；没放配乐就只出音效版
 npx remotion studio           # 浏览器里边看边改
